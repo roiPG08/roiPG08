@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student! 👨‍💻
 
 &nbsp;&nbsp;
-<img align="left" alt="Background2" width="1980px" height = "800px" src="https://i.ibb.co/Fg90N3n/Background-v2.png" style="padding-right:10px;" />
+![Background](/Background v2.png)
 &nbsp;&nbsp;
 
 ### Passions:
