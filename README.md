@@ -2,9 +2,7 @@
 
 ## I'm a Computer Science Student! 👨‍💻
 
-&nbsp;&nbsp;
 ![](images/Backgroundv2.png)
-&nbsp;
 
 ### Passions:
 - 🤖 Game and Software Development!
