@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;
 ![](images/Backgroundv2.png)
-&nbsp;&nbsp;
+&nbsp;
 
 ### Passions:
 - 🤖 Game and Software Development!
