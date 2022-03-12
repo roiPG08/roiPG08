@@ -1,8 +1,8 @@
 # Hi everyone, I'm Przemyslaw - call me Przemek 👋 
 
-## I'm a Computer Science Student! 👨‍💻
-
 ![](images/Backgroundv2.png)
+
+## I'm a Computer Science Student! 👨‍💻
 
 ### Passions:
 - 🤖 Game and Software Development!
