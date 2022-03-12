@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student! 👨‍💻
 
 &nbsp;&nbsp;
-![Background](/Background v2.png)
+![](images/Background v2.png)
 &nbsp;&nbsp;
 
 ### Passions:
