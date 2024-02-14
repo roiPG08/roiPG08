@@ -20,7 +20,6 @@
 
 <a href="https://www.linkedin.com/in/przemyslaw-rabczak-8039a51b6/"><img align="left" alt="LinkedIn" width="26px" src="https://i.ibb.co/8b85jWN/linkedin-icon.png">
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/przemorab/?hl=en"><img align="left" alt="Instagram" width="26px" src="https://i.ibb.co/4Vfyk8c/640px-Instagram-icon.png">
 
 
 ### Languages and Tools:
