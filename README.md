@@ -2,21 +2,17 @@
 
 ![](images/Backgroundv2.png)
 
-## I'm a Computer Science Student! 👨‍💻
+## Software Developer - C#, .NET, Node.JS, React 👨‍💻
 
-### Passions:
-- 🤖 Game and Software Development!
-- ✒️ Graphic Design
-- ⚒️ 3D Modelling
+### Passionated about:
+- 🤖 Software Development:
+    - Programming Patterns
+    - Programs architecture
 - ⚖️ Investing
-- ☁️ Full Stack Cloud Dev 
+    - Strategic investing, FIRE
+    - Technical & Fundamental analysing
+    - Trading
 
-### About me:
-- 🥅 2022 Goals: Get internship, Learn more about web3, develop 2D game, Make website about me 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to make games more than playing them!
-- 🐶 I love animals!
 
 ### Connect with me:
 
